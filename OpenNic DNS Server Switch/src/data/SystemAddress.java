@@ -37,7 +37,7 @@ public class SystemAddress {
 		return this.opennicPrimaryDNS;
 	}
 	
-	final void setOpennicPrimaryServer(final String theServer) {
+	final public void setOpennicPrimaryServer(final String theServer) {
 		this.opennicPrimaryDNS = theServer;
 	}
 	
