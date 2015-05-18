@@ -27,7 +27,7 @@ public class Program {
 				testing = "S1 has been set";
 			}
 			System.out.print(testing);
-			
+			System.out.print("Banana");
 			
 		}
 		catch (ParseException exp) {
